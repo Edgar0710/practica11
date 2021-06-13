@@ -1,0 +1,15 @@
+/*---------------------General---------------------------**/
+body {
+    background-color: black;
+  }
+
+/*-----------------Index------------------*/
+  .instrucciones-text {
+    font-size: 15px;
+    padding-bottom: 5px;
+    color: white;
+  }
+  .div_pedidos {
+    background-color: black;
+    padding-top: 10px;
+  }
